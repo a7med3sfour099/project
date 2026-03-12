@@ -18,6 +18,7 @@ class _RootState extends State<Root> {
     ImageSelect(),
     ToggleSelection(),
     MultiSelection(),
+    
   ];
   int selectedIndex = 0;
 
